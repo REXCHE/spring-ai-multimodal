@@ -1,5 +1,7 @@
 # Spring AI Multimodal + GPT-4o
 
+https://www.youtube.com/watch?v=y90CkHvDGls
+
 OpenAI just launched their newest flagship model GPT-4o, and it comes packed with some exciting features:
 
 - **50% lower.**GPT-4o is 50% cheaper than GPT-4 Turbo, across both input tokens ($5 per 1 million tokens) and output tokens ($15 per 1 million tokens).
